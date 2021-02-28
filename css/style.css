@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.header-section{
+    background-color:grey;
+}
+.cart{
+    background-color:rgb(187,203,167);
+}
+.cart img{
+    height: 350px;
+    width: 200px;
+}
+.shoping-cart img{
+
+    height: 400px;
+    width: 500px;
+}
+.help-bar{
+    margin-left: 17PX;
+    text-align: center;
+}
